@@ -1,0 +1,60 @@
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.exe
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.deps.json
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.runtimeconfig.json
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.dll
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.pdb
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.Form1.resources
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.csproj.GenerateResource.cache
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.AssemblyInfoInputs.cache
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.AssemblyInfo.cs
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.csproj.CoreCompileInputs.cache
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.dll
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\refint\Tic_Tac_Toe_Magbanua.dll
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.pdb
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.genruntimeconfig.cache
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\ref\Tic_Tac_Toe_Magbanua.dll
+C:\Users\Marius Ramos\source\repos\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.Properties.Resources.resources
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.exe
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.deps.json
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.runtimeconfig.json
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.dll
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.pdb
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.Form1.resources
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.Properties.Resources.resources
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.csproj.GenerateResource.cache
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.AssemblyInfoInputs.cache
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.AssemblyInfo.cs
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.csproj.CoreCompileInputs.cache
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.sourcelink.json
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.dll
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\refint\Tic_Tac_Toe_Magbanua.dll
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.pdb
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.genruntimeconfig.cache
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\ref\Tic_Tac_Toe_Magbanua.dll
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.Form2.resources
+C:\Users\aimegrace\Source\Repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.Form3.resources
+C:\Users\aimegrace\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.LogIn.resources
+C:\Users\aimegrace\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.Form5.resources
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.Form1.resources
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.Form2.resources
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.Form3.resources
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.Form4.resources
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.Properties.Resources.resources
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.sourcelink.json
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.exe
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.deps.json
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.runtimeconfig.json
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.dll
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\bin\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.pdb
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.dll
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\refint\Tic_Tac_Toe_Magbanua.dll
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.pdb
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\Tic_Tac_Toe_Magbanua.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TicTacToe_Magbanua\Tic_Tac_Toe_Magbanua\Tic_Tac_Toe_Magbanua\obj\Debug\net8.0-windows\ref\Tic_Tac_Toe_Magbanua.dll
